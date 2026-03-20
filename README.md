@@ -8,8 +8,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on: [Salesclove Web Project](https://www.salesclove.com/)  
-- 🌱 Enhancing skills in **Backend Web Development**  
+- 💼 **Full Stack Developer** — building real-world products end-to-end  
+- 🔭 Currently working on:
+  - [Freepare](https://www.freepare.com/) — Exam prep platform
+  - [Files @ Zenth India](https://files.zenithindia.org/) — Internal file transfer system *(built solely)*
+  - [Docs @ Zenth India](https://docs.zenithindia.org/) — Internal company documentation portal
+  - GMAT & CAT Algorithm Engine — built on same infrastructure, solely
+- 🌱 Enhancing skills in **Backend Web Development & Scalable Systems**  
 - 💬 Ask me about **Design & Development**  
 - 📫 Reach me: **vishalsingh58912@gmail.com**  
 - 📄 Learn about my professional experiences: [LinkedIn](https://www.linkedin.com/in/vishal-kumar-a03b90243)  
@@ -37,6 +42,11 @@
 
 ### 🛠️ Skills & Tools
 <p align="left"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
